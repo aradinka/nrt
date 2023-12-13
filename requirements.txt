@@ -1,0 +1,9 @@
+numpy
+scipy
+xarray
+rasterio
+netCDF4
+numba
+pandas
+affine
+matplotlib
